@@ -10,9 +10,9 @@ public class Gen {
 
         ArrayList<String> arrayList = new ArrayList();
 
-        arrayList.add(249.22); //The generic class saves time by catching errors!
+       // arrayList.add(249.22); //The generic class saves time by catching errors!
         arrayList.add("Work?");
-        arrayList.add(0.284373839282983198238712398723); //The generic class saves time by catching errors!
+       // arrayList.add(0.284373839282983198238712398723); //The generic class saves time by catching errors!
         arrayList.add("Does");
         arrayList.add("This");
 
